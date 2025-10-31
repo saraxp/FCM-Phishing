@@ -1,0 +1,6 @@
+/venv
+/__pycache__
+/saraaamini3/__pycache__/data_loader.cpython-313.pyc
+/saraaamini3/__pycache__/feature_extractor.cpython-313.pyc
+/saraaamini3/__pycache__/random_forest_model.cpython-313.pyc
+/saraaamini3/__pycache__/xgboost_model.cpython-313.pyc
